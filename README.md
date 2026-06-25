@@ -28,16 +28,16 @@
 <a href="https://instagram.com/printo_mathew_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="printo_mathew_" height="30" width="40" /></a>
 </p>
 
-# Tech Stack
+## Tech Stack
 
-## Languages
+### Languages
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20" alt="Java" title="Java"> Java
 
-## Mobile & Frontend
+### Mobile & Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
@@ -45,13 +45,12 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-
-## Backend & APIs
+### Backend & APIs
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Django RESTFRAMEWORK](https://img.shields.io/badge/Django%20RESTFRAMEWORK-%23B91C1C.svg?style=flat-square&logo=APIt&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
-## Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%230051BA.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2313AA52.svg?style=flat-square&logo=mongodb&logoColor=white)
@@ -59,7 +58,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 
-## DevOps & Tools
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -67,10 +66,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## Data & Analysis
+### Data & Analysis
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%231f77b4.svg?style=flat-square&logo=python&logoColor=white)
 
-## Productivity - MS Office Tools & Design Tools
+### Productivity - MS Office Tools & Design Tools
 ![MS Word](https://img.shields.io/badge/MS%20Word-%232B579A.svg?style=flat-square&logo=microsoft-word&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B4472C.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
@@ -85,7 +84,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=printo02&" alt="printo02" /></p>
 
 
---
 
 
 
