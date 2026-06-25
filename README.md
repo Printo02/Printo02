@@ -34,7 +34,7 @@
 
 
 
-
+--------------------------------------------
 
 
 Tech Stack
@@ -67,4 +67,158 @@ Tech Stack
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 
 
+--------------------------------------
 
+
+
+Tech Stack - Alternative Versions
+---
+VERSION 2: Minimal & Clean (Text-based)
+```
+🛠️ Tech Stack
+
+📱 Frontend: Flutter | Dart | HTML5 | CSS3 | JavaScript | Bootstrap
+🔧 Backend: Python | Flask | PHP | Node.js | Express | Java
+🗄️ Databases: MySQL | PostgreSQL | MongoDB | SQLite | Oracle | Firebase
+🚀 DevOps: Git | Docker | Kubernetes | Linux | Hadoop
+```
+---
+VERSION 3: Table Format
+Category	Technologies
+Mobile & Frontend	Flutter, Dart, HTML5, CSS3, JavaScript, Bootstrap
+Backend & APIs	Python, Flask, PHP, Node.js, Express, Java
+Databases	MySQL, PostgreSQL, MongoDB, SQLite, Oracle, Firebase
+DevOps & Tools	Git, Docker, Kubernetes, Linux, Hadoop
+---
+VERSION 4: Flat Square Badges
+📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+🔧 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+---
+VERSION 5: For-the-Badge Style (Bold & Large)
+📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+🔧 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+---
+VERSION 6: With Proficiency Levels
+📱 Mobile & Frontend
+Expert: Flutter, JavaScript, HTML5, CSS3
+Proficient: Dart, Bootstrap
+Learning: React (if applicable)
+🔧 Backend & APIs
+Expert: Python, Flask, Node.js
+Proficient: Java, PHP, Express
+Learning: Go (if applicable)
+🗄️ Databases
+Expert: MySQL, MongoDB, Firebase
+Proficient: PostgreSQL, SQLite
+Learning: Oracle, Cassandra (if applicable)
+🚀 DevOps & Tools
+Expert: Git, Linux, Docker
+Proficient: Kubernetes, Hadoop
+Learning: Terraform, Jenkins (if applicable)
+---
+VERSION 7: Categorized Horizontal Layout
+<h2>🛠️ Tech Stack</h2>
+<p>
+<b>Frontend:</b> 
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+<p>
+<b>Backend:</b> 
+<img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-404d59?logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java">
+</p>
+<p>
+<b>Databases:</b> 
+<img src="https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle">
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase">
+</p>
+<p>
+<b>DevOps & Tools:</b> 
+<img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black" alt="Hadoop">
+</p>
+---
+VERSION 8: Simple List Format
+🛠️ Tech Stack
+Mobile & Frontend: Flutter, Dart, HTML5, CSS3, JavaScript, Bootstrap
+Backend & APIs: Python, Flask, PHP, Node.js, Express, Java
+Databases: MySQL, PostgreSQL, MongoDB, SQLite, Oracle, Firebase
+DevOps & Tools: Git, Docker, Kubernetes, Linux, Hadoop
+---
+VERSION COMPARISON
+Version	Style	Best For	Size
+1 (Original)	Flat Badges	Professional, Modern	Medium
+2	Text Only	Quick, Minimal	Small
+3	Table	Clean, Organized	Medium
+4	Flat Square	Clean, Compact	Medium
+5	For-the-Badge	Bold, Eye-catching	Large
+6	With Levels	Detailed, Honest	Large
+7	Horizontal HTML	Horizontal flow	Medium
+8	Simple List	Ultra-minimal	Small
+Recommendation: Use Version 1 (Flat) or Version 5 (Bold) for maximum visual impact on your GitHub profile!
