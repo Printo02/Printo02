@@ -3,9 +3,6 @@
 <p align="center">
   <a href="https://printo02.github.io/PrintoMathew-portfolio/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
   <a href="https://linkedin.com/in/printo-mathew"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:printomathew65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-printomathew65@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://twitter.com/printomathew06"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/26517815"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </p>
