@@ -222,3 +222,162 @@ Version	Style	Best For	Size
 7	Horizontal HTML	Horizontal flow	Medium
 8	Simple List	Ultra-minimal	Small
 Recommendation: Use Version 1 (Flat) or Version 5 (Bold) for maximum visual impact on your GitHub profile!
+
+
+
+-----------------------
+
+
+Tech Stack (Rounded Edges - Version)
+<style>
+  .tech-badge {
+    display: inline-block;
+    padding: 8px 16px;
+    margin: 6px 6px 6px 0;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    border: none;
+    cursor: default;
+    transition: transform 0.2s ease;
+  }
+
+  .tech-badge:hover {
+    transform: translateY(-2px);
+  }
+
+  /* Frontend Colors */
+  .flutter { background-color: #02569B; }
+  .dart { background-color: #0175C2; }
+  .html5 { background-color: #E34F26; }
+  .css3 { background-color: #1572B6; }
+  .javascript { background-color: #F7DF1E; color: #333; }
+  .bootstrap { background-color: #8511FA; }
+
+  /* Backend Colors */
+  .python { background-color: #3670A0; }
+  .flask { background-color: #000000; }
+  .php { background-color: #777BB4; }
+  .nodejs { background-color: #6DA55F; }
+  .express { background-color: #404d59; }
+  .java { background-color: #ED8B00; }
+
+  /* Database Colors */
+  .mysql { background-color: #0051BA; }
+  .postgresql { background-color: #316192; }
+  .mongodb { background-color: #13AA52; }
+  .sqlite { background-color: #003B57; }
+  .oracle { background-color: #F80000; }
+  .firebase { background-color: #FFA726; color: white; }
+
+  /* DevOps Colors */
+  .git { background-color: #F05033; }
+  .docker { background-color: #2496ED; }
+  .kubernetes { background-color: #326ce5; }
+  .linux { background-color: #FCC624; color: #333; }
+  .hadoop { background-color: #66CCFF; color: #333; }
+
+  .tech-category {
+    margin-bottom: 24px;
+  }
+
+  .category-title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .tech-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+<div class="tech-category">
+  <div class="category-title">📱 Mobile & Frontend</div>
+  <div class="tech-container">
+    <span class="tech-badge flutter">Flutter</span>
+    <span class="tech-badge dart">Dart</span>
+    <span class="tech-badge html5">HTML5</span>
+    <span class="tech-badge css3">CSS3</span>
+    <span class="tech-badge javascript">JavaScript</span>
+    <span class="tech-badge bootstrap">Bootstrap</span>
+  </div>
+</div>
+<div class="tech-category">
+  <div class="category-title">🔧 Backend & APIs</div>
+  <div class="tech-container">
+    <span class="tech-badge python">Python</span>
+    <span class="tech-badge flask">Flask</span>
+    <span class="tech-badge php">PHP</span>
+    <span class="tech-badge nodejs">Node.js</span>
+    <span class="tech-badge express">Express</span>
+    <span class="tech-badge java">Java</span>
+  </div>
+</div>
+<div class="tech-category">
+  <div class="category-title">🗄️ Databases</div>
+  <div class="tech-container">
+    <span class="tech-badge mysql">MySQL</span>
+    <span class="tech-badge postgresql">PostgreSQL</span>
+    <span class="tech-badge mongodb">MongoDB</span>
+    <span class="tech-badge sqlite">SQLite</span>
+    <span class="tech-badge oracle">Oracle</span>
+    <span class="tech-badge firebase">Firebase</span>
+  </div>
+</div>
+<div class="tech-category">
+  <div class="category-title">🚀 DevOps & Tools</div>
+  <div class="tech-container">
+    <span class="tech-badge git">Git</span>
+    <span class="tech-badge docker">Docker</span>
+    <span class="tech-badge kubernetes">Kubernetes</span>
+    <span class="tech-badge linux">Linux</span>
+    <span class="tech-badge hadoop">Hadoop</span>
+  </div>
+</div>
+---
+Alternative: Markdown Version with Rounded Badge Images
+If you prefer pure Markdown badges with rounded corners, use this CSS-in-HTML approach:
+```html
+## 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white&logoWidth=20)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+
+## 🔧 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%230051BA.svg?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2313AA52.svg?style=plastic&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=plastic&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white)
+
+## 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black)
+```
+---
+Tips for Using Rounded Badges:
+✅ Use `style=plastic` - Gives a more rounded appearance than flat
+✅ The HTML version above - Has actual border-radius: 20px CSS styling
+✅ Best Practice - Copy the HTML version (top section) into your README for custom rounded corners
+The HTML version provides true 20px rounded corners and will display beautifully on GitHub!
