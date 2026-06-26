@@ -9,8 +9,7 @@
 
 ----
 
-
-<h3 align="center">A Young Passionate Software developer from Kerala,India</h3>
+An MCA aspirant with a strong foundation in web technologies and a proven ability to quickly learn and adapt to dynamic work environments.
 
 - 🔭 I’m currently pursing MCA **@ MACFAST**
 
