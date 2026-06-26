@@ -9,11 +9,10 @@
 
 ----
 
-An MCA aspirant with a strong foundation in web technologies and a proven ability to quickly learn and adapt to dynamic work environments.
+I am an MCA aspirant from Kerala with a solid background in web technologies. I consider myself a highly flexible learner who can quickly adapt to new working conditions and technical environments.
 
-- 🔭 I’m currently pursing MCA **@ MACFAST**
 
-- 🌱 I’m currently learning **Django, Docker**
+- 🌱 I’m currently learning **Django, Docker , React**
 
 - 📫 How to reach me **printomathew65@gmail.com**
 
